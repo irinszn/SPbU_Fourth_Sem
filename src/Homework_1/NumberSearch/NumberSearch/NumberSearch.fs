@@ -1,5 +1,7 @@
 ﻿module NumberSearch
 
+/// function that returns the first position of a given number in a list.
+/// returns the first position or None.
 let searchNumber list number =
     let rec recSearch list acc =
         match list with

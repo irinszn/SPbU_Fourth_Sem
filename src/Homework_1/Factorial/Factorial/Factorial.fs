@@ -1,5 +1,7 @@
 ﻿module Factorial
 
+/// calculates the factorial of a number.
+/// returns the factorial of a number.
 let factorial number = 
     if number < 0 then
         None

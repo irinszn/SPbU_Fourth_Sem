@@ -1,5 +1,7 @@
 ﻿module Fibonacci
 
+/// calculates the nth Fibonacci number in linear time.
+/// returns nth Fibonacci number.
 let fibonacci number = 
     if number <= 0 then
         None
