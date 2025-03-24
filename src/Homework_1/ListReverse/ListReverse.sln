@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ListReverse", "ListReverse\ListReverse.fsproj", "{7272D2EC-EB0B-4F3F-A1EA-2FAF2B0F51EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7272D2EC-EB0B-4F3F-A1EA-2FAF2B0F51EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7272D2EC-EB0B-4F3F-A1EA-2FAF2B0F51EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7272D2EC-EB0B-4F3F-A1EA-2FAF2B0F51EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7272D2EC-EB0B-4F3F-A1EA-2FAF2B0F51EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
